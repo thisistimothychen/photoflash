@@ -14,6 +14,8 @@ Tutorial for this code can be found at [this playlist](https://www.youtube.com/p
 ```bash
 git init
 ```
+Create new repo on Github
+Run bash commands from empty Github repo and push to Github
 
 #####Pushing to Github
 ```bash
